@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift programming: neglecting edge cases when using array operations such as filter. The 'bug.swift' file shows the erroneous code, which produces unexpected results when given an empty input array. The corrected version in 'bugSolution.swift' provides a more robust and reliable implementation.
